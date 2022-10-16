@@ -1,1 +1,3 @@
 class Hurry
+{
+  public void main()
